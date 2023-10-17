@@ -1,7 +1,7 @@
 # Taco-Recipes
-Taco-Recipes using EJS & NodeJs
+Taco-Recipes using EJS & Node.js
 
-This is a simple Web Application using EJS & Nodejs for a Taco Recipe Application. You will be able to view 3 different taco types/ingredients when you click on the respective images which are "chicken", "beef", & "fish.
+This is a simple Web Application using EJS & Node.js for a Taco Recipe Application. You will be able to view 3 different taco types/ingredients when you click on the respective images which are "chicken", "beef", & "fish.
 
 Run this project using npm.
 
