@@ -10,3 +10,5 @@ Run this project using npm.
 3) When in the terminal, use npm install to install node dependencies - "npm install."
 4) Once the dependencies are installed, you can go back into the terminal and use nodemon index.js to have your API running on port 3000. - "nodemon index.js"
 5) You can now go to your browser and enter "http://localhost:3000/" to view the application. 
+
+**NOTE***This project has also been uploaded to Heroku, and you can simply use the link - https://afternoon-falls-06799-daf016e46f63.herokuapp.com/  - to view the application on your Web Browser.
